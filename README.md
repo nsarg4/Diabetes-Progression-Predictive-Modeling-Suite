@@ -1,2 +1,2 @@
 # Diabetes-Progression-Predictive-Modeling-Suite
-A comparative regression analysis framework applying Linear Regression, Ridge Regression, and Random Forest models to the Scikit-Learn Diabetes dataset.
+A comparative regression analysis framework applying Linear Regression, Ridge Regression, and Random Forest models to the Scikit-Learn Diabetes dataset. This project evaluates model performance using the $R^2$ coefficient of determination to quantify the predictive relationship between clinical features—such as age, BMI, and blood serum measurements—and disease progression.
